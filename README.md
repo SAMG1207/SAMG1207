@@ -30,3 +30,5 @@
 <p align="center">
 
 - **Languages**:
+
+  ![PHP](![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat))
