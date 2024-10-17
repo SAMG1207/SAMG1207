@@ -1,7 +1,7 @@
 <div align="center">
   <h1 > <b> Sergio Moreno  </b></h1> 
    <h2>Junior Full Stack Developer | PHP, Javascript, React Enthusiast</h2> 
-	<a href="https://sergiomoreno.netlify.app/">
+	<p></p><a href="https://sergiomoreno.netlify.app/"> See My CV </a> </p>
 </div>
 
 
