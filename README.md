@@ -17,7 +17,7 @@
 
 <br>
 
-- An enthusiast PHP and Javascript Web Developer.
+- An enthusiast Web Developer.
 - SQL Server user, procedures and functions made using transact SQL
 - Currently working on projects that solve real-life problems.
 
