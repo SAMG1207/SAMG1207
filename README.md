@@ -17,7 +17,7 @@
 
 <br>
 
-- An enthusiast Web Developer.
+- An enthusiast Web Developer, more backend oriented, I kie to develop using .NET and PHP.
 - SQL Server user, procedures and functions made using transact SQL
 - Currently working on projects that solve real-life problems.
 
