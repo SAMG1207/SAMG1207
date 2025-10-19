@@ -17,9 +17,11 @@
 
 <br>
 
-- An enthusiast Web Developer, more backend oriented, I kie to develop using .NET and PHP.
-- SQL Server user, procedures and functions made using transact SQL
-- Currently working on projects that solve real-life problems.
+- I'm an enthusiastic Web Developer with a strong focus on backend development. My preferred stack is .NET, where I enjoy building scalable and maintainable solutions. I also have experience working with PHP and Python, but .NET remains my first choice for real-world applications.
+
+- I'm proficient in SQL Server, regularly writing stored procedures and functions using Transact-SQL to support complex business logic and data operations.
+
+- Currently, I'm working on projects that address real-life challenges, applying clean architecture principles and exploring CQRS patterns with SQL Server for commands and MongoDB for queries.
 
 <br><br>
 
